@@ -59125,7 +59125,7 @@ return B.d.am(r,s)},
 $S:379}
 A.Bg.prototype={
 R(a){var s=null
-return new A.pK(new A.oj(new A.Uu(),s,s,A.arc(),A.aqb(),t.xc),s,s,new A.rt(new A.rG(s),"Namer App",A.a7Z(s,A.a9U(B.L,s,s,B.Cw),s),s),s,t.wt)}}
+return new A.pK(new A.oj(new A.Uu(),s,s,A.arc(),A.aqb(),t.xc),s,s,new A.rt(new A.rG(s),"Flutter Application",A.a7Z(s,A.a9U(B.L,s,s,B.Cw),s),s),s,t.wt)}}
 A.Uu.prototype={
 $1(a){return new A.hY(A.acI(),A.c([],t.pl),$.aA())},
 $S:380}
